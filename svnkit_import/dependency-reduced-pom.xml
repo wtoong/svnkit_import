@@ -14,7 +14,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>svnkittest.importtest.WorkingCopy</mainClass>
+              <mainClass>svnkittest.import_test.WorkingCopy</mainClass>
             </manifest>
           </archive>
         </configuration>

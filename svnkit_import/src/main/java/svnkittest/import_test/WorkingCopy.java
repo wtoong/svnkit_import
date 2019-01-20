@@ -23,6 +23,8 @@ public class WorkingCopy {
     // java -jar .\importtest-1.0.0.jar https://localhost:5000/svn/video C:\Users\rlaxo\Videos\181206 test test
     // java -jar .\importtest-1.0.0.jar https://localhost:5000/svn/video C:\Users\rlaxo\Videos\181207 test test
     
+    // clean package shade:shade
+    
     public static void main(String[] args) {
         /*
          * Initializes the library (it must be done before ever using the library 
